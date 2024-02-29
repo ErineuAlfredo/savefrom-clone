@@ -12,7 +12,7 @@ Clone o Repositório:
 festa
 
 Copiar código
-git clone https://github.com/ErineuAlfredo/savefro-clone.git
+git clone https://github.com/ErineuAlfredo/savefrom-clone.git
 Abra o arquivo HTML:
 Abra o arquivo `inindex.html em seu navegador preferido.
 
