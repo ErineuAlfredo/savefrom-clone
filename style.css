@@ -1,0 +1,71 @@
+body{
+    font-family:sans-serif
+}
+
+input{
+    width: 545px;
+    height: 35px;
+    border: 5px solid #1bfd1b;
+    
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 90px;
+}
+
+h1{
+    font-family: font-family "Nanum Myeongjo", serif;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    margin-top: 50px;
+    
+}
+
+button{
+    display: flex;
+    text-align: center;
+    text-align-last: center;
+    width: 60px;
+    background-color: #1bfd1b;
+    color: white;
+    border: none;
+    margin: 3%;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+}
+
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a{
+    color: rgb(57, 114, 227);
+}
+
+img{
+    display: flex;
+    width: 50px;
+    justify-content: right 20px;
+    margin-top: 35px;
+   
+}
+
+.guia{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
+
